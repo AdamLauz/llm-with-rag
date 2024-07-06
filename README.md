@@ -1,2 +1,2 @@
 # llm-with-rag
-use RAG module on top of LLM
+SawserQGPT, functioning as a virtual Circassian history and culture expert.
